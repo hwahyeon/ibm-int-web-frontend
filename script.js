@@ -17,7 +17,7 @@ const calculateSimpleInterest = (principal, rate, time) => {
 }
 
 const calculateTotalPayableAmount = (principal, interestAmount) => {
-  return principal - interestAmount;
+  return principal + interestAmount;
 }
 
 module.exports = {
