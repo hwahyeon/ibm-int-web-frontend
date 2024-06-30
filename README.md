@@ -1,1 +1,1 @@
-# ibm-int-web-frontend
+# coding-project-template
